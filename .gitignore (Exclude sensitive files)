@@ -1,0 +1,7 @@
+# Environment
+.env.local
+.firebase
+.gcloudignore
+
+# Dependencies
+node_modules/
